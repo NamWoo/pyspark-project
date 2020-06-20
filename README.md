@@ -70,4 +70,4 @@ import pyspark.ml
 
 Data Scientist Nano Degree 2nd. Final Spark Project.
 
-and another students [1](https://github.com/gharesh/Sparkify-Project), [2](https://github.com/fxzero/Sparkify-Project)
+and ref [1](https://github.com/udacity), [2](https://www.slideshare.net/ssuser760eb4/pyspark-ch-06-ml)
