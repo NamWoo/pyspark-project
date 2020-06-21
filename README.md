@@ -76,6 +76,6 @@ import pyspark.ml
 ## References, Licensing, Authors, Acknowledgements
 
 
-Data Scientist Nano Degree 2nd. Final Spark Project.
+[Udacity](https://www.udacity.com/) [Data Scientist Nano Degree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) 2nd. Final Spark Project.
 
 and ref [1](https://github.com/udacity), [2](https://www.slideshare.net/ssuser760eb4/pyspark-ch-06-ml)
