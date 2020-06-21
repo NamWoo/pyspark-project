@@ -2,7 +2,9 @@
 
 Udacity Data Scientist Nanodegree 2nd Capstone Project
 
-https://github.com/NamWoo/pyspark-project
+
+github link : https://github.com/NamWoo/pyspark-project
+blog post link : https://medium.com/@pre3ice/sparkify-project-blog-post-f827c1eb37db?sk=07bc64bb36beefdeea3df9bb41cfd8c1
 
 
 ## contents
@@ -19,9 +21,9 @@ The highest score is LogisticRegression. f1(0.6), precision(0.375), and recall(0
 
 |model|precision|recall|f1|
 |:---:|:---:|:---:|:---:|
-|**LogisticRegression**|0.5|0.125|0.2|
+|DecisionTreeClassifier|0.5|0.125|0.2|
 |GBTClassifier|0.5|0.375|0.42|
-|LogisticRegression|0.6|0.375|0.46
+|**LogisticRegression**|0.6|0.375|0.46
 
 
 ## install and import version
