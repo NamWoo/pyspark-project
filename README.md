@@ -2,10 +2,13 @@
 
 Udacity Data Scientist Nanodegree 2nd Capstone Project
 
-This is Blog Post link
-* blog post link : https://medium.com/@pre3ice/sparkify-project-blog-post-f827c1eb37db?sk=07bc64bb36beefdeea3df9bb41cfd8c1
+[This is Blog Post Link URL](https://medium.com/@pre3ice/sparkify-project-blog-post-f827c1eb37db?sk=07bc64bb36beefdeea3df9bb41cfd8c1)
 
-And jupyter Notebook, Git link
+![asfasfasf](https://user-images.githubusercontent.com/8021479/85218422-1df19900-b3d5-11ea-8ddd-8bccd004d298.PNG)
+
+* Blog Post Link URL : https://medium.com/@pre3ice/sparkify-project-blog-post-f827c1eb37db?sk=07bc64bb36beefdeea3df9bb41cfd8c1
+
+And jupyter Notebook, Git link 
 * github link : https://github.com/NamWoo/pyspark-project
 * jupyter Notebook link : https://github.com/NamWoo/pyspark-project/blob/master/Sparkify.ipynb
 
