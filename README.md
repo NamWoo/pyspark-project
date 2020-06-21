@@ -3,9 +3,9 @@
 Udacity Data Scientist Nanodegree 2nd Capstone Project
 
 
-github link : https://github.com/NamWoo/pyspark-project
-blog post link : https://medium.com/@pre3ice/sparkify-project-blog-post-f827c1eb37db?sk=07bc64bb36beefdeea3df9bb41cfd8c1
-
+* github link : https://github.com/NamWoo/pyspark-project
+* blog post link : https://medium.com/@pre3ice/sparkify-project-blog-post-f827c1eb37db?sk=07bc64bb36beefdeea3df9bb41cfd8c1
+* jupyter Notebook link : https://github.com/NamWoo/pyspark-project/blob/master/Sparkify.ipynb
 
 ## contents
 1. results
